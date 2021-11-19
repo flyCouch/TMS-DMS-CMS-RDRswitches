@@ -6,7 +6,11 @@ I have to copyright because of some of the World's fools.
 But I don't have to charge you for use/distribution.
 If you modify it, put it under your name then.
 
+Here is the keypad I used:
 
+https://www.ebay.ca/itm/253750261480?hash=item3b14b1b6e8:g:rCEAAOSw2JJbSOrH 
+
+The Arduino is a Pro Micro.
 
 
 # TMS-DMS-CMS-RDRswitches
