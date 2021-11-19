@@ -2,6 +2,10 @@ Use at your own risk.
 I am not accepting responsiblity for anything.
 Copyright Ron Lyttle 2021.
 
+https://github.com/flyCouch/TMS-DMS-CMS-RDRswitches/blob/main/pictures/20211119_075834.jpg
+
+
+
 I have to copyright because of some of the World's fools.
 But I don't have to charge you for use/distribution.
 If you modify it, put it under your name then.
