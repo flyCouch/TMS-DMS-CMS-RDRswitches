@@ -2,8 +2,8 @@ Use at your own risk.
 I am not accepting responsiblity for anything.
 Copyright Ron Lyttle 2021.
 
-https://github.com/flyCouch/TMS-DMS-CMS-RDRswitches/blob/main/pictures/20211119_075834.jpg
 
+![20211119_075834](https://user-images.githubusercontent.com/92828067/142646098-b7e41da9-96fe-4a3d-8b93-7f099cb096a7.jpg)
 
 
 I have to copyright because of some of the World's fools.
