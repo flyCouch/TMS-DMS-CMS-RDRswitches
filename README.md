@@ -15,8 +15,11 @@ Falcon BMS 4.35 specific.
 
 
 Top Row:   Radar Cursors, left, up, down, right.
-2nd Row:   CMS              "    "    "     "   .
-3rd Row:   DMS              "    "    "     "    .
+
+2nd Row:   CMS              "    "    "     "  .
+
+3rd Row:   DMS              "    "    "     "  .
+
 Bottom Row:TMS              "    "    "     "  .
 
 
