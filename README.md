@@ -40,6 +40,6 @@ It is basically a straight line for the 4 pins and 4 resistors.
 
 Yah, not all of us have money for the Saitek X52 series.
 
-Skyblast one for me, eh?
+Skyblast one for me, in the transistor world.
 
 Ron Lyttle..
