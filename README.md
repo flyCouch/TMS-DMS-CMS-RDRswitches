@@ -14,7 +14,7 @@ Here is the keypad I used:
 
 https://www.ebay.ca/itm/253750261480?hash=item3b14b1b6e8:g:rCEAAOSw2JJbSOrH 
 
-The Arduino is a Pro Micro.
+The Arduino is a Pro Micro 5v.
 
 
 # TMS-DMS-CMS-RDRswitches
