@@ -1,3 +1,13 @@
+/* Use at your own risk.
+   I am not accepting responsibility for anything.
+   Copyright Ron Lyttle 2024.
+   I have to copyright because of some of the World's fools.
+   But I don't have to charge you for use/distribution.
+   If you modify it, put it under your own name then.
+   Read the readme.txt for hints on how to set up screens.
+   This .ino is for the TMS/DMS/CMS/RdrCur Switches.
+*/
+
 #include <Keyboard.h>
 
 // Define rows and columns
