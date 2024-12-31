@@ -4,7 +4,6 @@
    I have to copyright because of some of the World's fools.
    But I don't have to charge you for use/distribution.
    If you modify it, put it under your own name then.
-   Read the readme.txt for hints on how to set up screens.
    This .ino is for the TMS/DMS/CMS/A>A,A>G,DF,MRM Switches.
 */
 
