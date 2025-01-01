@@ -22,13 +22,15 @@ The Arduino is a Pro Micro 5v.
 Falcon BMS 4.35 specific.
 
 
-Top Row:   Radar Cursors, left, up, down, right.
+Top Row:   A>A  A>G  DF  MRM
 
-2nd Row:   CMS              "    "    "     "  .
+For the 2/3/4 rows it is  left/up/down/right
 
-3rd Row:   DMS              "    "    "     "  .
+2nd Row:   CMS    
 
-Bottom Row:TMS              "    "    "     "  .
+3rd Row:   DMS             
+
+4th Row:TMS             
 
 
 
