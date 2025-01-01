@@ -14,7 +14,7 @@ int rows[] = {6, 7, 8, 9};
 int cols[] = {5, 4, 3, 2};
 unsigned long debounceTimes[16] = {0};
 const int debounceDelay = 667;
-const int delayTime = 300;
+const int delayTime = 20;
 
 // Keymap: Each entry represents the keys for [row][col]
 const int keyMap[4][4][3] = {
